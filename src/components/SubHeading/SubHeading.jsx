@@ -1,7 +1,9 @@
 import React from 'react';
 
+import { images } from '../../constants';
+
 const SubHeading = () => (
-  <div>
+  <div style={{marginBottom = '1rem' }}>
     SubHeading
   </div>
 );
